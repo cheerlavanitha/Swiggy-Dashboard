@@ -9,6 +9,10 @@ This project is a Power BI dashboard created to analyze Swiggy food delivery sal
 * Power Query
 * DAX
 
+## Dataset
+
+“https://www.kaggle.com/datasets/vanithacheerla/swiggy-food-delivery-dataset ”
+
 ## Dashboard
 
 The dashboard includes the following:
