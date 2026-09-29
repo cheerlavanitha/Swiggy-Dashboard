@@ -50,7 +50,7 @@ The main purpose of this project is to practice data cleaning, data analysis, an
 
 ## Dashboard Preview
 
-![Swiggy Sales Dashboard](Screenshots/Dashboard.png)
+https://github.com/cheerlavanitha/Swiggy-Dashboard/blob/main/Dashboard_Img.png
 
 ## Project Files
 
