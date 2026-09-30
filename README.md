@@ -58,9 +58,11 @@ https://github.com/cheerlavanitha/Swiggy-Dashboard/blob/main/Dashboard_Img.png
 
 ## Project Files
 
-* `Swiggy_Dashboard.pbix` – Power BI dashboard
-* `swiggy_data.csv` – Dataset
-* `Dashboard.png` – Dashboard screenshot
+*Swiggy Sales Dashboard.pbix
+*swiggy_food_delivery_50000.csv
+*Dashboard_Img.png
+*Dashboard_video.mp4
+*Document.docx
 
 ## Author
 
